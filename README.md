@@ -24,4 +24,7 @@ Busco oportunidades de estágio na área de desenvolvimento, onde eu possa aplic
 ---
 
 ## 📊 Estatísticas do GitHub
-<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=amandafrolini6&show_icons=true&theme=rose_pine"/> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandafrolini6&layout=compact&theme=rose_pine"/> </div>
+<div align="center">
+ <img height="160" src="https://github-readme-stats.vercel.app/api?username=amandafrolini6&show_icons=true&theme=highcontrast"/>
+ <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandafrolini6&layout=compact&theme=highcontrast"/>
+</div>
