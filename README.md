@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Tecnologias & Ferramentas que estudo
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white) ![JavaScript](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
 
@@ -17,10 +17,7 @@ Busco oportunidades de estágio na área de desenvolvimento, onde eu possa aplic
 ---
 
 ## 📌 Projetos & Estudos
-* Sistema de Fornecedores em PHP (POO) * Exercícios de programação em Python * Projetos acadêmicos da faculdade
-Projetos acadêmicos da Fatec-Jahu
-Exercícios e mini aplicações em JavaScript, PHP e Python
-Boas práticas de UX e criação de interfaces mais intuitivas
+* Sistema de Fornecedores em PHP (POO) * Exercícios de programação em Python * Projetos acadêmicos da Fatec-Jahu * Exercícios e mini aplicações em JavaScript, PHP e Python * Boas práticas de UX e criação de interfaces mais intuitivas
 
 ---
 
