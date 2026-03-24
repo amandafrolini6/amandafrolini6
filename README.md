@@ -1,6 +1,6 @@
 # 🌟 Olá, eu sou a Amanda Frolini!
 
-Bem-vinda(o) ao meu perfil! Aqui você encontra um pouco da minha jornada como desenvolvedora. <br>
+Bem-vindo(a) ao meu perfil! Aqui você encontra um pouco da minha jornada como desenvolvedora. <br>
 Sou estudante do 5º semestre de Desenvolvimento de Software Multiplataforma na Fatec-Jahu e apaixonada por transformar ideias em soluções digitais funcionais e modernas.
 
 💻 Amo programar, explorar tecnologias e buscar novas formas de evoluir. <br>
