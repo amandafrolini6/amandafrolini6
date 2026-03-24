@@ -30,11 +30,11 @@ Atualmente estou buscando oportunidades de estágio em desenvolvimento de softwa
 ---
 
 ## 📚 Projetos & Estudos Atuais
-🔹 Sistema de Fornecedores em PHP (POO)
-🔹 Mini aplicações e exercícios em JavaScript, PHP e Python
-🔹 Projetos acadêmicos da Fatec-Jahu
-🔹 Estudos de UX para criação de interfaces mais fluidas
-🔹 Práticas com banco de dados usando MySQL
+🔹 Sistema de Fornecedores em PHP (POO) <br>
+🔹 Mini aplicações e exercícios em JavaScript, PHP e Python <br>
+🔹 Projetos acadêmicos da Fatec-Jahu <br>
+🔹 Estudos de UX para criação de interfaces mais fluidas <br>
+🔹 Práticas com banco de dados usando MySQL <br>
 🔹 Uso de Git e GitHub em projetos pessoais e acadêmicos
 
 ---
