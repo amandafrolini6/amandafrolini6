@@ -8,18 +8,24 @@ Sou estudante do 5º semestre de Desenvolvimento de Software Multiplataforma na 
 
 ---
 
+## 💡 Sobre mim
+✨ Busco sempre aprender mais sobre tecnologias, padrões e boas práticas
+✨ Adoro criar interfaces simples, intuitivas e funcionais
+✨ Tenho interesse especial em frontend, UX/UI e desenvolvimento multiplataforma.
+
+---
+
 ## 🚀 Tecnologias & Ferramentas que estudo
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
 ## 🎯 Objetivo Profissional
-Atualmente estou buscando oportunidades de estágio em desenvolvimento de software, onde posso:
-✔ Aplicar meus conhecimentos
-✔ Aprender com profissionais experientes
-✔ Crescer como desenvolvedora
-✔ Contribuir para projetos reais🎯 Objetivo
-Busco oportunidades de estágio na área de desenvolvimento, onde eu possa aplicar meus conhecimentos, aprender com profissionais da área e crescer tecnicamente.
+Atualmente estou buscando oportunidades de estágio em desenvolvimento de software, onde posso: <br>
+✔ Aplicar meus conhecimentos <br>
+✔ Aprender com profissionais experientes <br>
+✔ Crescer como desenvolvedora <br>
+✔ Contribuir para projetos reais
 
 ---
 
