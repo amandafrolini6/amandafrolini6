@@ -20,6 +20,7 @@ Busco oportunidades de estágio na área de desenvolvimento, onde eu possa aplic
 
 ## 📫 Contato
 📧 amandafrolini6@gmail.com
+🧷 https://www.linkedin.com/in/amanda-frolini-097186301/
 
 ---
 
