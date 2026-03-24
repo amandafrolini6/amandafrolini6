@@ -20,6 +20,12 @@ Sou estudante do 5º semestre de Desenvolvimento de Software Multiplataforma na 
 
 ---
 
+## 📊 Estatísticas do GitHub
+<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=amandafrolini6&show_icons=true&theme=tokyonight"/> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandafrolini6&layout=compact&theme=tokyonight"/> </div>
+
+
+---
+
 ## 🎯 Objetivo Profissional
 Atualmente estou buscando oportunidades de estágio em desenvolvimento de software, onde posso: <br>
 ✔ Aplicar meus conhecimentos <br>
@@ -42,8 +48,3 @@ Atualmente estou buscando oportunidades de estágio em desenvolvimento de softwa
 ## 📫 Onde me encontrar?
 📧 amandafrolini6@gmail.com <br>
 🧷 https://www.linkedin.com/in/amanda-frolini-097186301/
-
----
-
-## 📊 Estatísticas do GitHub
-<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=amandafrolini6&show_icons=true&theme=tokyonight"/> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandafrolini6&layout=compact&theme=tokyonight"/> </div>
