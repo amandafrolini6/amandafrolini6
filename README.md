@@ -9,9 +9,9 @@ Sou estudante do 5º semestre de Desenvolvimento de Software Multiplataforma na 
 ---
 
 ## 💡 Sobre mim
-✨ Busco sempre aprender mais sobre tecnologias, padrões e boas práticas
-✨ Adoro criar interfaces simples, intuitivas e funcionais
-✨ Tenho interesse especial em frontend, UX/UI e desenvolvimento multiplataforma.
+✨ Busco sempre aprender mais sobre tecnologias, padrões e boas práticas <br>
+✨ Adoro criar interfaces simples, intuitivas e funcionais <br>
+✨ Tenho interesse especial em frontend, UX/UI e desenvolvimento multiplataforma <br>
 
 ---
 
