@@ -32,14 +32,6 @@ Sou estudante do 5º semestre de Desenvolvimento de Software Multiplataforma na 
 
 ---
 
-### 🎯 Atualmente estou buscando oportunidades de estágio em desenvolvimento de software, onde posso: <br>
-✔ Aplicar meus conhecimentos <br>
-✔ Aprender com profissionais experientes <br>
-✔ Crescer como desenvolvedora <br>
-✔ Contribuir para projetos reais
-
----
-
 ## 📫 Onde me encontrar?
 📧 amandafrolini6@gmail.com <br>
 🧷 https://www.linkedin.com/in/amanda-frolini-097186301/
