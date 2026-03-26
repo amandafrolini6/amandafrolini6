@@ -6,9 +6,6 @@ Sou estudante do 5º semestre de Desenvolvimento de Software Multiplataforma na 
 💻 Amo programar, explorar tecnologias e buscar novas formas de evoluir. <br>
 🌱 Atualmente me especializando em desenvolvimento web, boas práticas, UX e arquitetura de software.
 
----
-
-## 💡 Sobre mim
 ✨ Busco sempre aprender mais sobre tecnologias, padrões e boas práticas <br>
 ✨ Adoro criar interfaces simples, intuitivas e funcionais <br>
 ✨ Tenho interesse especial em frontend, UX/UI e desenvolvimento multiplataforma <br>
