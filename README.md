@@ -16,7 +16,7 @@ Sou estudante do 5º semestre de Desenvolvimento de Software Multiplataforma na 
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?amandafrolini6=SEU_USERNAME&color=blue)
 
 ---
 
