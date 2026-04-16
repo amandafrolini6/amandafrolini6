@@ -1,7 +1,7 @@
 # 🌟 Olá, eu sou a Amanda Frolini!
 
 Bem-vindo(a) ao meu perfil! Aqui você encontra um pouco da minha jornada como desenvolvedora. <br>
-Vivo em Barra Bonita-SP e sou estudante do 5º semestre de Desenvolvimento de Software Multiplataforma na Fatec-Jahu e apaixonada por transformar ideias em soluções digitais funcionais e modernas.
+Moro em Barra Bonita-SP e sou estudante do 5º semestre de Desenvolvimento de Software Multiplataforma na Fatec-Jahu e apaixonada por transformar ideias em soluções digitais funcionais e modernas.
 
 ---
 
