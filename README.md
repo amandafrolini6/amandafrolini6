@@ -1,14 +1,7 @@
 # 🌟 Olá, eu sou a Amanda Frolini!
 
 Bem-vindo(a) ao meu perfil! Aqui você encontra um pouco da minha jornada como desenvolvedora. <br>
-Sou estudante do 5º semestre de Desenvolvimento de Software Multiplataforma na Fatec-Jahu e apaixonada por transformar ideias em soluções digitais funcionais e modernas.
-
-💻 Amo programar, explorar tecnologias e buscar novas formas de evoluir. <br>
-🌱 Atualmente me especializando em desenvolvimento web, boas práticas, UX e arquitetura de software.
-
-✨ Busco sempre aprender mais sobre tecnologias, padrões e boas práticas <br>
-✨ Adoro criar interfaces simples, intuitivas e funcionais <br>
-✨ Tenho interesse especial em frontend, UX/UI e desenvolvimento multiplataforma <br>
+Vivo em Barra Bonita-SP e sou estudante do 5º semestre de Desenvolvimento de Software Multiplataforma na Fatec-Jahu e apaixonada por transformar ideias em soluções digitais funcionais e modernas.
 
 ---
 
