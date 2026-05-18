@@ -20,7 +20,6 @@ const amanda = {
   education: "DSM @ Fatec-Jahu",
   focus: ["Frontend Development", "UX/UI Design", "Backend with PHP & Python"],
   currentlyLearning: "Clean code practices & component-based architecture",
-  funFact: "I believe every good interface starts with empathy 💜"
 };
 ```
 
