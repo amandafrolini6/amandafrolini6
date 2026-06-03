@@ -53,6 +53,7 @@ const amanda = {
 ---
  
 ## 📂 What You'll Find Here
+<div align="center">
  
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -62,6 +63,7 @@ const amanda = {
 | 🎓 **Academic Projects** | Assignments and group work from Fatec-Jahu | Various |
 | 🎨 **UX Studies** | Wireframes and interface design explorations | Figma, CSS |
 
+</div>
 ---
 
 ## 🌐 Let's Connect
