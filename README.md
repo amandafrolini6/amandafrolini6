@@ -10,7 +10,7 @@
 
 ## 🌸 About Me
  
-Hey! I'm **Amanda**, a technology student from **Barra Bonita, SP** passionate about transforming ideas into modern, functional digital experiences.
+Hey! I'm **Amanda**, a technology student from **Barra Bonita-SP**, passionate about transforming ideas into modern, functional digital experiences.
  
 I'm currently studying **Systems Analysis and Development (DSM)** at **Fatec-Jahu**, and I'm deeply interested in the intersection of good code and great design. For me, a product is only truly complete when it's both well-built and a pleasure to use.
 
